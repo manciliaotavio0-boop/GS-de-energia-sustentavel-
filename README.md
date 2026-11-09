@@ -84,6 +84,3 @@ Os valores são estimativas e não garantem economia. Tarifa, custos, consumo do
 
 ## Vídeo
 `[PREENCHER: link do vídeo não listado no YouTube]`
-
-## Uso de IA generativa
-Usamos IA como apoio para estruturar o código e buscar fontes. Os dados, os cálculos e as referências foram conferidos pelo grupo.
