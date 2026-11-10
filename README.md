@@ -72,7 +72,6 @@ Os valores são estimativas e não garantem economia. Tarifa, custos, consumo do
 3. **Ambiente de execução > Executar tudo**
 4. Na célula do assistente, digite o número da opção e pressione Enter. Digite `0` para sair.
 
-## Referências
 - ANEEL, boletim InfoTarifas (via Poder360): https://poder360.com.br/poder-infra/aneel-projeta-alta-de-86-na-conta-de-luz-em-2026
 - MCTI, fator de emissão do SIN 2023: https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2024/02/fator-de-emissao-de-co2-na-geracao-de-energia-eletrica-no-brasil-em-2023-e-o-menor-em-12-anos
 - MCTI/SIRENE, fatores mensais 2025 (via Canal Solar): https://canalsolar.com.br/emissoes-de-co%e2%82%82-geracao-eletrica-mcti/
