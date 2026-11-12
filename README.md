@@ -84,4 +84,4 @@ Os valores são estimativas e não garantem economia. Tarifa, custos, consumo do
 - ANEEL, tarifas e Tarifa Social: https://www.gov.br/aneel
 
 ## Vídeo
-`[PREENCHER: link do vídeo não listado no YouTube]`
+https://youtu.be/YvQ06oIzCOg?is=t4NJg7o8G9bqGmpe
